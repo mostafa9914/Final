@@ -1,0 +1,59 @@
+
+/*==================================
+level 2 singin and singUp
+====================================*/
+
+.login form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 18px;
+  padding: 10px 12px;
+  border: 1px solid #607d8b;
+  color: black;
+  font-size: 16px;
+  border-radius: 5px;
+
+}
+
+form button {
+  padding: 8px 12px;
+  background-color: teal;
+  border-radius: 5px;
+  color: #000;
+  font-size: 16px;
+  border: none;
+  color: white;
+}
+
+form button:active {
+  scale: 0.9;
+}
+
+.account {
+  font-size: 16px;
+  margin-top: 12px;
+  font-weight: 100;
+}
+
+.account a {
+  text-decoration: underline;
+  color: w;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.Light form p {
+  color: black;
+}
+
+.p-create {
+  margin-bottom: 22px;
+  font-size: 23px;
+}
+
+.Light .p-create {
+  color: black;
+}
